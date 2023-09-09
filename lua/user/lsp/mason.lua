@@ -1,11 +1,12 @@
 local servers = {
-	"lua_ls",
+  "clangd",
+	-- "lua_ls",
 	-- "cssls",
 	-- "html",
 	-- "tsserver",
-	"pyright",
+	-- "pyright",
 	-- "bashls",
-	"jsonls",
+	-- "jsonls",
 	-- "yamlls",
 }
 
